@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ejm/Documents/Software Engineering/Projects/cpp-sandbox/helpers.cpp
+helpers.h
+/Users/ejm/Documents/Software Engineering/Projects/cpp-sandbox/helpers.h
+
+/Users/ejm/Documents/Software Engineering/Projects/cpp-sandbox/helpers.h
+vector
+-
+iostream
+-
+
+/Users/ejm/Documents/Software Engineering/Projects/cpp-sandbox/main.cpp
+iostream
+-
+vector
+-
+helpers.h
+/Users/ejm/Documents/Software Engineering/Projects/cpp-sandbox/helpers.h
+
